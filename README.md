@@ -231,3 +231,6 @@ This repository serves as the official landing page for Trojan Killer. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Trojan Killer today!**
+
+---
+**Last updated:** 2026-09-08 16:57:22 UTC

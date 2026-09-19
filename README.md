@@ -233,4 +233,4 @@ This repository serves as the official landing page for Trojan Killer. The softw
 **Get the most recent version of Trojan Killer today!**
 
 ---
-**Last updated:** 2026-09-19 19:49:17 UTC
+**Last updated:** 2026-09-19 21:58:31 UTC
